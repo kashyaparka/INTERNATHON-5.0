@@ -7,7 +7,7 @@ https://docs.google.com/presentation/d/15kHA-25gCw5YKVIUMp3HsqC_GnKycRwei_CN01Qe
 </h2>
 <br>
 Screenshots
-![image](https://user-images.githubusercontent.com/66404945/140644789-6eff6f2a-2860-44c5-8157-5c5877ec2d5d.png)
+<img src="https://user-images.githubusercontent.com/66404945/140644789-6eff6f2a-2860-44c5-8157-5c5877ec2d5d.png">
 <h3>Video Link</h3>
 <br>
 <h2>
